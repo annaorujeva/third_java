@@ -3,7 +3,7 @@ package app;
 public class Orange extends Fruit{
     public int count;
     public Orange(int aCount){
-        this.count=aCount;
+        count = aCount;
     }
 
     @Override
